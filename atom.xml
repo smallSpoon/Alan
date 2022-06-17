@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smallspoon.github.io</id>
     <title>Alan&apos;s blog</title>
-    <updated>2022-06-17T13:12:09.115Z</updated>
+    <updated>2022-06-17T13:20:54.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smallspoon.github.io"/>
     <link rel="self" href="https://smallspoon.github.io/atom.xml"/>
@@ -16,23 +16,41 @@
         <link href="https://smallspoon.github.io/post/mo-ban/">
         </link>
         <updated>2022-06-17T12:27:08.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="我大标题">我大标题</h1>
-<blockquote>
-<p>我是引用</p>
-</blockquote>
-<h3 id="我是三标题">我是三标题</h3>
+        <summary type="html"><![CDATA[<p>这是一份简短的书单</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="我大标题">我大标题</h1>
-<blockquote>
-<p>我是引用</p>
-</blockquote>
-<h3 id="我是三标题">我是三标题</h3>
+        <content type="html"><![CDATA[<p>这是一份简短的书单</p>
 <!-- more -->
-<p>公共分手后六氟化硫翻翻历史考古捣鼓历史故事联赛冠军</p>
+<p>##《中国辣椒史》<br>
+年度最喜欢的书。<br>
+信息密度与解答方法非常令人愉悦。譬如作者提出，江浙地区比两广地区更早出现关于辣椒的记载，但并不意味着辣椒传入前者的时间早于后者，因为前者文教系统较为发达，当地人记录下来的可能性更大。又譬如吃辣是穷人的嗜好吗？但辣味饮食的扩散又可能和<strong>城市化</strong>有关。</p>
+<h2 id="祥瑞">《祥瑞》</h2>
+<p>虽然名义上是<em>王莽</em>，但实际上是儒学和中央集权制度最后如何走向媾和。<br>
+王莽不是什么理想主义的殉道者，就是个权力的奴隶。<br>
+（希望能写长评）</p>
+<blockquote>
+<p>我是引用我是引用我是引用我是引用我是引用我是引用我是引用我是引用</p>
+</blockquote>
+<h2 id="消失的13级台阶">《消失的13级台阶》</h2>
+<p>推理小说中社会派的极致，怎么赞叹都不为过。<br>
+核心诡计出人意料，但在早期就可隐隐猜到真相的阴翳，只是被庞杂的信息淹没。<br>
+--- 以死刑案为线索，中途拉慢了叙事节奏，因为重点在于对于死刑的探讨，援引了很多流派对于死刑的看法，尤其是南乡这个角色，我不认为他的存在意义在于正义的昭彰，而在于令人看到死刑对于执行者的心理伤害。顺 ---<br>
+带一提，南乡对纯一有着长辈的温柔，比如纯一作为服刑犯出狱后，南乡特意问一些技术问题，其实是只是为了夸赞主角（让他获得社会认可）。<br>
+在主角不断被帮助的旅程中，有着<code>“每个普通人稍微抬高一寸”的金色梦乡的光辉。</code></p>
+<p><code>这是选择要花费拉风阿</code></p>
+<ol>
+<li>列表</li>
+<li>列表</li>
+<li>列表</li>
+</ol>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+</ul>
 <p><strong>加粗</strong><br>
 <em>斜线</em></p>
-<!-- more -->
-<p>🤡😠🤡🤡😋<br>
+<p>这是图<br>
 <img src="https://s2.loli.net/2022/06/17/RSOFjuxG5rXA7qH.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
