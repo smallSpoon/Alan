@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smallspoon.github.io</id>
     <title>Alan&apos;s blog</title>
-    <updated>2022-06-17T11:44:20.098Z</updated>
+    <updated>2022-06-17T12:30:48.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smallspoon.github.io"/>
     <link rel="self" href="https://smallspoon.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://smallspoon.github.io/images/avatar.png</logo>
     <icon>https://smallspoon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Alan&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[模板]]></title>
+        <id>https://smallspoon.github.io/post/mo-ban/</id>
+        <link href="https://smallspoon.github.io/post/mo-ban/">
+        </link>
+        <updated>2022-06-17T12:27:08.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="我大标题">我大标题</h1>
+<blockquote>
+<p>我是引用</p>
+</blockquote>
+<h3 id="我是三标题">我是三标题</h3>
+<p>公共分手后六氟化硫翻翻历史考古捣鼓历史故事联赛冠军</p>
+<p><strong>加粗</strong><br>
+<em>斜线</em></p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="我大标题">我大标题</h1>
+<blockquote>
+<p>我是引用</p>
+</blockquote>
+<h3 id="我是三标题">我是三标题</h3>
+<p>公共分手后六氟化硫翻翻历史考古捣鼓历史故事联赛冠军</p>
+<p><strong>加粗</strong><br>
+<em>斜线</em></p>
+<!-- more -->
+<p>🤡😠🤡🤡😋</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是我的小窝]]></title>
         <id>https://smallspoon.github.io/post/zhe-shi-wo-de-xiao-wo/</id>
