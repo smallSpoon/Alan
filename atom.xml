@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://smallspoon.github.io</id>
     <title>Alan&apos;s blog</title>
-    <updated>2022-06-17T13:20:54.417Z</updated>
+    <updated>2022-06-17T13:22:56.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://smallspoon.github.io"/>
     <link rel="self" href="https://smallspoon.github.io/atom.xml"/>
@@ -20,8 +20,8 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>这是一份简短的书单</p>
 <!-- more -->
-<p>##《中国辣椒史》<br>
-年度最喜欢的书。<br>
+<h2 id="中国辣椒史">《中国辣椒史》</h2>
+<p>年度最喜欢的书。<br>
 信息密度与解答方法非常令人愉悦。譬如作者提出，江浙地区比两广地区更早出现关于辣椒的记载，但并不意味着辣椒传入前者的时间早于后者，因为前者文教系统较为发达，当地人记录下来的可能性更大。又譬如吃辣是穷人的嗜好吗？但辣味饮食的扩散又可能和<strong>城市化</strong>有关。</p>
 <h2 id="祥瑞">《祥瑞》</h2>
 <p>虽然名义上是<em>王莽</em>，但实际上是儒学和中央集权制度最后如何走向媾和。<br>
